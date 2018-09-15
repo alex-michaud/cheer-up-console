@@ -1,0 +1,16 @@
+{
+  "src": {
+    "tagName": "v%s",
+    "commitArgs": "-S"
+  },
+  "github": {
+    "release": true
+  },
+  "npm": {
+    "publish": true,
+    "publishPath": ".",
+    "tag": "latest",
+    "private": false,
+    "access": null
+  }
+}
