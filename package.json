@@ -6,5 +6,10 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
-  }
+  },
+  "homepage": "https://github.com/alex-michaud/cheer-up-console",
+  "bugs": {
+    "url": "https://github.com/alex-michaud/cheer-up-console/issues"
+  },
+  "license": "MIT"
 }
