@@ -1,3 +1,3 @@
 module.exports = (settings) => {
-  require('lib')(settings);
+  require('./lib/console')(settings);
 };

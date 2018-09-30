@@ -10,6 +10,7 @@ will produce a colorful and more readable output.
 3. console.warn
 4. console.info
 5. console.dir
+6. console.memory (***extra method***)
 
 ## Install
 
