@@ -28,3 +28,7 @@ let arr = [];
 arr[0] = arr;
 arr[1] = 'test value';
 console.log('Argument with circular reference', arr);
+
+console.time('time');
+for(let i=0; i<10000; i++) {  }
+console.timeEnd('time');
